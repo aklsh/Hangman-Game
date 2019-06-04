@@ -1,0 +1,208 @@
+abruptly:adverb
+absurd:adjective
+abyss:noun
+affix:verb
+askew:adverb & adjective
+avenue:noun
+awkward:adjective
+axiom:noun
+azure:adjective
+bagpipes:noun
+bandwagon:noun
+banjo:noun
+bayou:noun
+beekeeper:noun
+blitz:noun
+blizzard:noun
+boggle:verb
+bookworm:noun
+boxcar:noun
+buffalo:noun
+buffoon:noun
+buzzard:noun
+buzzing:gerund
+buzzwords:noun
+caliph:noun
+cobweb:noun
+cockiness:adjective
+croquet:noun
+crypt:noun
+curacao:noun
+cycle:noun
+daiquiri:noun
+dirndl:noun
+disavow:verb
+dizzying:gerund
+duplex:noun
+dwarves:noun
+embezzle:verb
+equip:verb
+espionage:noun
+euouae:abbrev
+exodus:noun
+faking:gerund
+fishhook:noun
+fixable:adjective
+fjord:noun
+flapjack:noun
+flopping:gerund
+fluffiness:noun
+flyby:noun
+foxglove:noun
+frazzled:verb
+frizzled:verb
+fuchsia:noun
+funny:adjective
+gabby:adjective
+galaxy:noun
+galvanize:verb
+gazebo:noun
+giaour:noun
+gizmo:noun
+glowworm:noun
+glyph:noun
+gnarly:adjective
+gnostic:adjective
+gossip:noun & verb
+grogginess:noun
+haiku:noun
+haphazard:adjective
+hyphen:noun
+iatrogenic:adjective
+icebox:noun
+injury:noun
+ivory:noun
+ivy:noun
+jackpot:noun
+jaundice:noun
+jawbreaker:noun & adjective
+jaywalk:verb
+jazziest:adjective
+jazzy:adjective
+jelly:noun
+jigsaw:noun
+jinx:verb & noun
+jiujitsu:noun
+jockey:noun
+jogging:noun & gerund
+joking:gerund
+jovial:adjective
+joyful:adjective
+juicy:adjective
+jukebox:noun
+jumbo:adjective
+kayak:noun
+kazoo:noun
+keyhole:noun
+khaki:noun
+kilobyte:noun
+kiosk:noun
+kitsch:noun & adjective
+kiwifruit:noun
+klutz:noun
+knapsack:noun
+larynx:noun
+lengths:noun
+lucky:adjective
+luxury:noun & adjective
+lymph:noun
+marquis:noun
+matrix:noun
+megahertz:noun
+microwave:noun
+mnemonic:noun & adjective
+mystify:verb
+naphtha:noun
+nightclub:noun
+nowadays:adverb
+numbskull:noun
+nymph:noun
+onyx:noun
+ovary:noun
+oxidize:verb
+oxygen:noun
+pajama:noun
+peekaboo:noun & adjective
+phlegm:noun
+pixel:noun
+pizzazz:noun:
+pneumonia:noun
+polka:noun & verb
+pshaw:verb & exclamation
+psyche:noun
+puppy:noun
+puzzling:noun
+quartz:noun
+queue:noun & verb
+quips:noun & verb
+quixotic:adjective
+quiz:noun & verb
+quizzes:noun & verb
+quorum:noun
+razzmatazz:noun
+rhubarb:noun
+rhythm:noun
+rickshaw:noun
+schnapps:noun
+scratch:verb & noun & adjective
+shiv:noun
+snazzy:adjective
+sphinx:noun
+spritz:verb & noun
+squawk:verb & noun
+staff:noun & verb
+strength:noun
+strengths:noun
+stretch:verb & noun
+stronghold:noun
+stymied:verb
+subway:noun
+swivel:noun & verb
+syndrome:noun
+thriftless:adjective
+thumbscrew:noun
+topaz:noun
+transcript:noun
+transgress:verb
+transplant:noun & verb
+triphthong:noun
+twelfth:number
+twelfths:number
+unknown:noun & adjective
+unworthy:adjective
+unzip:verb
+uptown:noun
+vaporize:verb
+vixen:noun
+vodka:noun
+voodoo:noun & verb
+vortex:noun
+voyeurism:noun
+walkway:noun
+waltz:verb & noun
+wave:verb & noun
+waxy:adjective
+wellspring:noun
+wheezy:adjective
+whiskey:noun
+whizzing:gerund
+whomever:pronoun
+wimpy:adjective
+witchcraft:noun
+wizard:noun
+woozy:adjective
+wristwatch:noun
+wyvern:noun
+xylophone:noun
+yachtsman:noun
+yippee:exclamation
+yoked:verb
+youthful:adjective
+yummy:adjective
+zephyr:noun
+zigzag:noun & adjective & adverb & verb
+zigzagging:noun & adjective & adverb & verb
+zilch:pronoun & determiner
+zipper:noun & verb
+zodiac:noun
+zombie:noun
